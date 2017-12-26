@@ -39,4 +39,4 @@ Disallow: */*/trackback
 Disallow: */*/feed/*/
 Disallow: */feed
 
-Host: webleader.ru
+Host: webleader.su
